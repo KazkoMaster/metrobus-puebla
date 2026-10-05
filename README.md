@@ -58,6 +58,14 @@ Metrobús Puebla es gratis y sin anuncios. Si te es útil, puedes apoyar su desa
 
 También está en la app, en **Perfil → Apoya el proyecto**.
 
+## Privacidad
+
+- **Sin cuentas, sin anuncios y sin rastreo propio.** La app no tiene servidor: no envía tus datos al autor.
+- **Ubicación:** solo se usa en tu teléfono para mostrarte en el mapa y buscar la estación más cercana. Puedes negar el permiso y la app sigue funcionando.
+- **Tus datos** (favoritas, saldo anotado, tema) se guardan únicamente en tu teléfono.
+- **Mapa:** lo provee Mapbox, que carga las imágenes del mapa por internet y, por defecto, recopila estadísticas anónimas de uso. Puedes desactivarlo desde el botón **ⓘ** del mapa. Consulta la [política de privacidad de Mapbox](https://www.mapbox.com/legal/privacy).
+- **Donaciones:** el botón abre Mercado Pago en tu navegador; la app no procesa pagos ni ve tus datos bancarios.
+
 ## Avisos
 
 - **App no oficial.** No está afiliada a RUTA, al Sistema de Transporte Público de Puebla ni al Gobierno del Estado de Puebla.
